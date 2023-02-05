@@ -1,6 +1,6 @@
 
 # my Swift Study - Chapter6[조건문]
-    ※ if, switch, guard 조건문이 있다.
+* if, switch, guard 조건문이 있다.
 ## if 구문
     ● 다른 언어와는 달리 스위프트의 if 구문은 조건의 값이 꼭 Bool 타입!!
     ● if 키워드 뒤에 따라오는 조건수식을 소괄호로 감싸주는 것은 선택 사항

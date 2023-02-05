@@ -1,6 +1,6 @@
 # my Swift Study - Chapter3[데이터 타입 기본]
 
-    ※ Swift는 데이터 타입에 굉장히 엄격하다
+* Swift는 데이터 타입에 굉장히 엄격하다
 
 ## Int vs UInt
     ● Int8, Int16, Int32, Int64, UInt8, UInt16, UInt32, UInt64 등
