@@ -323,6 +323,3 @@
     let customerProvider: () -> String = returnProvider(customerInLine.removeFirst())
     print(customerProvider) //minjae
 ```
----
-야곰 지음 - 스위프트 프로그래밍3판을 공부하고 작성하였음
----

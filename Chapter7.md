@@ -318,6 +318,3 @@
     say("hello") // hello + 반환 값 미사용 경고
     discardableResultSay("hello") // hello + 경고 x
 ```
----
-야곰 지음 - 스위프트 프로그래밍3판을 공부하고 작성하였음
----

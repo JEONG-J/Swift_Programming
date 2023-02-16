@@ -347,6 +347,3 @@ print(myClass.students.count) //15
     fileManager = nil
     //deinit 부분 실행된다.
 ```
----
-야곰 지음 - 스위프트 프로그래밍3판을 공부하고 작성하였음
----
